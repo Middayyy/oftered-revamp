@@ -5,3 +5,4 @@ config.json
 .gitattributes
 .gitignore
 README.md
+index.js
