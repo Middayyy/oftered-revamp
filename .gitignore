@@ -1,3 +1,8 @@
 config.json
 node_modules
 .env
+.eslintrc.json
+.gitattributes
+.gitignore
+README.md
+index.js
